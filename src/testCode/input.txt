@@ -1,0 +1,6 @@
+push " deadp ool "
+push  abc
+push " abc  "
+push "2.5"
+push __name1__
+quit
